@@ -32,5 +32,5 @@ a moment's life - that is me**
 *   [mudra](https://github.com/abhinavs/mudra)
 *   [gupshupy](https://github.com/abhinavs/gupshupy)
 
-✨ You can follow me on Twitter - [@abhinav][https://twitter.com/abhinav]
+✨ You can follow me on Twitter - [@abhinav](https://twitter.com/abhinav)
 
