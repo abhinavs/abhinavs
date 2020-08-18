@@ -20,7 +20,7 @@ a moment's life - that is me**
 
 **Current Projects**
 
-*   [blockr](http://wwww.abhinav.co/blockr.html)
+*   [blockr](http://www.abhinav.co/blockr.html)
 *   [year-progress](https://year-progress.herokuapp.com/)
 
 **Old Projects**
