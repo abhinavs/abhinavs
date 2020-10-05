@@ -23,7 +23,7 @@ a moment's life - that is me**
 *   [blockr](http://www.abhinav.co/blockr.html)
 *   [microrequests](http://www.abhinav.co/microrequests.html)
 *   [year-progress](https://year-progress.herokuapp.com/)
-*   [chhoti si kahani](https://www.facebook.com/ChhotiSiKahani) (writing)
+*   [chhoti si kahani](https://chhotisikahani.substack.com/) (writing)
 
 **Old Projects**
 
