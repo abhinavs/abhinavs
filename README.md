@@ -20,18 +20,22 @@ a moment's life - that is me**
 
 **Current Projects**
 
-*   [blockr](http://www.abhinav.co/blockr.html)
-*   [microrequests](http://www.abhinav.co/microrequests.html)
-*   [year-progress](https://year-progress.herokuapp.com/)
-*   [chhoti si kahani](https://www.facebook.com/ChhotiSiKahani) (writing)
+*   [soopr](https://www.soopr.co)
+*   [humangous](https://www.humangous.co)
+*   [cookie](https://github.com/abhinavs/cookie)
+*   [moonwalk](https://www.abhinav.co/moonwalk)
+*   [blockr](https://www.abhinav.co/blockr)
+*   [microrequests](https://www.abhinav.co/microrequests)
+*   [chhoti si kahani](https://chhotisikahani.substack.com/) (writing)
 
 **Old Projects**
 
+*   [year-progress](https://year-progress.herokuapp.com/)
 *   [pincodr](https://github.com/abhinavs/pincodr)
 *   [schedulr](https://github.com/abhinavs/scheduler_service)
 *   [webhooks](https://github.com/abhinavs/webhooks)
 *   [mudra](https://github.com/abhinavs/mudra)
 *   [gupshupy](https://github.com/abhinavs/gupshupy)
 
-✨⚡You can read more about me on my [blog](http://www.abhinavsaxena.com/about/) or follow me on Twitter - [@abhinav](https://twitter.com/abhinav)
+✨⚡You can read more about me on my [blog](https://www.abhinav.co/about/) or follow me on Twitter - [@abhinav](https://twitter.com/abhinav)
 
