@@ -20,13 +20,14 @@ a moment's life - that is me**
 
 **Current Projects**
 
-*   [soopr](https://www.soopr.co)
-*   [humangous](https://www.humangous.co)
-*   [cookie](https://github.com/abhinavs/cookie)
-*   [moonwalk](https://www.abhinav.co/moonwalk)
-*   [blockr](https://www.abhinav.co/blockr)
-*   [microrequests](https://www.abhinav.co/microrequests)
-*   [chhoti si kahani](https://chhotisikahani.substack.com/) (writing)
+*   [soopr](https://www.soopr.co) - a new kind of website analytics tool
+*   [apicagent](https://www.apicagent.com) - an API that extracts device details from user-agent string
+*   [humangous](https://www.humangous.co) - create public and private 'working with you' guides
+*   [cookie](https://github.com/abhinavs/cookie) - a free landing website boilerplate using Jekyll and Tailwind CSS
+*   [moonwalk](https://www.abhinav.co/moonwalk) - a fast and minimal blog theme with clean dark mode
+*   [blockr](https://www.abhinav.co/blockr) - a CLI tool to help you easily block and unblock websites
+*   [microrequests](https://www.abhinav.co/microrequests) - a Python library to help you consume microservice efficiently
+*   [chhoti si kahani](https://chhotisikahani.substack.com/) (writing) - short stories in Hindi
 
 **Old Projects**
 
