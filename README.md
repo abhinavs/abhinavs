@@ -21,10 +21,12 @@ a moment's life - that is me**
 **Current Projects**
 
 *   [soopr](https://www.soopr.co) - a new kind of website analytics tool
-*   [apicagent](https://www.apicagent.com) - an API that extracts device details from user-agent string
+*   [apicagent](https://www.apicagent.com) - a FREE API that extracts device details from user-agent string
 *   [humangous](https://www.humangous.co) - create public and private 'working with you' guides
 *   [cookie](https://github.com/abhinavs/cookie) - a free landing website boilerplate using Jekyll and Tailwind CSS
 *   [moonwalk](https://www.abhinav.co/moonwalk) - a fast and minimal blog theme with clean dark mode
+*   [scoop](https://www.abhinav.co/scoop) - a Sinatra boilerplate project using Corneal, ActiveRecord, Capistrano, Puma & Nginx
+*   [pincodr](https://github.com/abhinavs/pincodr) - a FREE set of JSON APIs for Indian pincodes
 *   [blockr](https://www.abhinav.co/blockr) - a CLI tool to help you easily block and unblock websites
 *   [microrequests](https://www.abhinav.co/microrequests) - a Python library to help you consume microservice efficiently
 *   [chhoti si kahani](https://chhotisikahani.substack.com/) (writing) - short stories in Hindi
@@ -32,7 +34,6 @@ a moment's life - that is me**
 **Old Projects**
 
 *   [year-progress](https://year-progress.herokuapp.com/)
-*   [pincodr](https://github.com/abhinavs/pincodr)
 *   [schedulr](https://github.com/abhinavs/scheduler_service)
 *   [webhooks](https://github.com/abhinavs/webhooks)
 *   [mudra](https://github.com/abhinavs/mudra)
