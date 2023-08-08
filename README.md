@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 **a body of clay, a mind full of play,  
 a moment's life - that is me**
 
-👋 I am an engineer based out of India. In my past life I have been an entrepreneur, growth hacker, VP-engineering, architect and have built systems in diverse domains like large scale data processing, messaging, payments, social games and logistics.
+👋 I am an engineer based out of India. In my past life, I have been an entrepreneur, growth hacker, VP-engineering, and architect. I have built systems in diverse domains like large-scale data processing, messaging, payments, social games, and logistics.
 
 **Current Projects**
-
+*   [annexr](https://www.annexr.com) - search documents and websites using generative AI
+*   [ping](https://www.apicblocks.com/ping/) - monitor your website's uptime and performance
 *   [soopr](https://www.soopr.co) - a new kind of website analytics tool
-*   [apicagent](https://www.apicagent.com) - a FREE API that extracts device details from user-agent string
+*   [apicagent](https://www.apicblocks.com/apicagent/) - a FREE API that extracts device details from user-agent string
 *   [humangous](https://www.humangous.co) - create public and private 'working with you' guides
 *   [cookie](https://github.com/abhinavs/cookie) - a free landing website boilerplate using Jekyll and Tailwind CSS
 *   [moonwalk](https://www.abhinav.co/moonwalk) - a fast and minimal blog theme with clean dark mode
